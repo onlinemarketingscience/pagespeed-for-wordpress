@@ -94,7 +94,7 @@ for element in filtered_array:
         print("- " + element['localizedRuleName'] + " (" + str((element['ruleImpact']/sum_of_impact)*100) + "%)")
         print("Für dieses Problem eignen sich folgende Vorgehensweisen")
         print("=> Installation des Plugins: wordpress.org/plugins/optimus/.")
-        print("=> Bilder einzeln über compress.io komprimieren.")
+        print("=> Bilder einzeln über compressor.io komprimieren.")
         print("=> Bildgrößen anpassen: Nur Bilder in der Größe hochladen, in denen sie gebraucht werden.")
         print("###############################")
 
